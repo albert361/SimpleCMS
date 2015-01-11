@@ -1,0 +1,1 @@
+sudo mongod --auth --fork --logpath /var/log/mongodb.log

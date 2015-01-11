@@ -1,0 +1,342 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ex",
+				"expiredMenu"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"auth",
+				"authInterceptor"
+			],
+			[
+				"ng",
+				"ng-model"
+			],
+			[
+				"User",
+				"UserCtrl"
+			],
+			[
+				"Us",
+				"UserCtrl"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config.js",
+			"settings":
+			{
+				"buffer_size": 315,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"input",
+				"InputHelper"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)  ",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)  "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/albert/Project/cmsBackend",
+		"/D/Home/Documents/GitHub/SimpleCMS",
+		"/D/Home/Documents/GitHub/SimpleCMS/mongodbScripts",
+		"/D/Home/Documents/GitHub/SimpleCMS/mongodbScripts/js",
+		"/D/Home/Documents/GitHub/SimpleCMS/public",
+		"/D/Home/Documents/GitHub/SimpleCMS/public/components",
+		"/D/Home/Documents/GitHub/SimpleCMS/public/css",
+		"/D/Home/Documents/GitHub/SimpleCMS/routes",
+		"/D/Home/Documents/GitHub/SimpleCMS/scripts",
+		"/D/Home/Documents/GitHub/SimpleCMS/views"
+	],
+	"file_history":
+	[
+		"/D/Home/Documents/GitHub/SimpleCMS/cmsBackend.sublime-project",
+		"/Users/albert/myOwn/rab2itinventory/server/node_modules/jsonwebtoken/package.json",
+		"/Users/albert/myOwn/rab2itinventory/server/node_modules/mongodb/package.json",
+		"/Users/albert/myOwn/rab2itinventory/server/node_modules/express-jwt/package.json",
+		"/Users/albert/myOwn/rab2itinventory/frontend/app/views/main.html",
+		"/home/albertwang/myOwn/rab2itinventory/frontend/app/styles/upload.scss",
+		"/home/albertwang/myOwn/rab2itinventory/frontend/app/scripts/controllers/upload.js",
+		"/home/albertwang/myOwn/rab2itinventory/frontend/app/views/upload.html",
+		"/home/albertwang/myOwn/rab2itinventory/frontend/app/scripts/directives/imagedrop.js",
+		"/home/albertwang/myOwn/rab2itinventory/frontend/app/index.html",
+		"/home/albertwang/.config/sublime-text-2/Packages/SassBeautify/SassBeautify.sublime-settings",
+		"/home/albertwang/myOwn/rab2itinventory/frontend/app/scripts/app.js",
+		"/home/albertwang/myOwn/rab2itinventory/frontend/app/scripts/controllers/main.js",
+		"/home/albertwang/myOwn/rab2itinventory/frontend/.jshintrc",
+		"/home/albertwang/myOwn/rab2itinventory/frontend/app/styles/main.scss",
+		"/home/albertwang/myOwn/rab2itinventory/frontend/app/styles/dashboard.scss",
+		"/home/albertwang/myOwn/rab2itinventory/server/routes/user.js",
+		"/home/albertwang/myOwn/rab2itinventory/server/app.js",
+		"/home/albertwang/myOwn/rab2itinventory/server/gm.js",
+		"/home/albertwang/myOwn/rab2itinventory/frontend/app/scripts/controllers/login.js",
+		"/home/albertwang/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/albertwang/.config/sublime-text-2/Packages/InputHelper/Default (Linux).sublime-keymap",
+		"/home/albertwang/.config/sublime-text-2/Packages/InputHelper/README.md",
+		"/home/albertwang/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/albertwang/myOwn/rab2itinventory/frontend/app/views/main.html",
+		"/home/albertwang/myOwn/rab2itinventory/frontend/app/bower_components/angular/angular.js",
+		"/home/albertwang/myOwn/rab2itinventory/frontend/Gruntfile.js",
+		"/home/albertwang/myOwn/rab2itinventory/frontend/app/views/login.html",
+		"/home/albertwang/myOwn/rab2itinventory/inventory_fe/app/scripts/controllers/login.coffee",
+		"/home/albertwang/myOwn/rab2itinventory/frontend/test/spec/controllers/login.js",
+		"/home/albertwang/myOwn/rab2itinventory/inventory_fe/app/scripts/app.coffee",
+		"/home/albertwang/myOwn/rab2itinventory/server/routes/api.js",
+		"/home/albertwang/myOwn/rab2itinventory/inventory_fe/app/views/login.html",
+		"/home/albertwang/myOwn/rab2itinventory/server/routes/authenticate.js",
+		"/home/albertwang/myOwn/rab2itinventory/server/routes/userlist.js",
+		"/home/albertwang/myOwn/rab2itinventory/inventory_fe/app/views/main.html",
+		"/home/albertwang/myOwn/rab2itinventory/inventory_fe/app/scripts/services/userservice.coffee",
+		"/home/albertwang/myOwn/rab2itinventory/inventory_fe/app/index.html",
+		"/home/albertwang/myOwn/rab2itinventory/inventory_fe/app/scripts/controllers/user.coffee",
+		"/home/albertwang/myOwn/rab2itinventory/server/views/index.jade",
+		"/home/albertwang/myOwn/rab2itinventory/server/app/scripts/controllers/user.js",
+		"/home/albertwang/myOwn/rab2itinventory/server/views/layout.jade",
+		"/home/albertwang/myOwn/rab2itinventory/server/routes/index.js",
+		"/home/albertwang/myOwn/rab2itinventory/inventory_fe/app/scripts/controllers/main.coffee",
+		"/home/albertwang/myOwn/rab2itinventory/inventory_fe/.tmp/scripts/services/userservice.js",
+		"/home/albertwang/myOwn/rab2itinventory/fe/app/views/main.html",
+		"/home/albertwang/myOwn/rab2itinventory/fe/app/scripts/controllers/main.js",
+		"/home/albertwang/myOwn/rab2itinventory/inventory_node/views/index.jade",
+		"/home/albertwang/myOwn/rab2itinventory/inventory_node/app.js",
+		"/home/albertwang/myOwn/rab2itinventory/inventory_node/views/layout.jade",
+		"/Users/wangalbert/myown/Rab2itInventory/inventory_fe/app/views/main.html",
+		"/Users/wangalbert/myown/Rab2itInventory/inventory_fe/app/scripts/controllers/main.coffee",
+		"/Users/wangalbert/myown/Rab2itInventory/inventory_fe/app/scripts/services/userservice.coffee",
+		"/Users/wangalbert/myown/Rab2itInventory/inventory_fe/.tmp/scripts/services/userservice.js",
+		"/Users/wangalbert/myown/Rab2itInventory/inventory_fe/app/scripts/controllers/login.coffee",
+		"/Users/wangalbert/myown/Rab2itInventory/inventory_fe/app/scripts/app.coffee",
+		"/Users/wangalbert/myown/Rab2itInventory/inventory_fe/app/views/login.html",
+		"/Users/wangalbert/projects/campaign-data-service/config/albert_dev.cfg",
+		"/Users/wangalbert/myown/Rab2itInventory/inventory_fe/.tmp/scripts/app.js",
+		"/Users/wangalbert/myown/Rab2itInventory/inventory_fe/.tmp/scripts/controllers/main.js",
+		"/Users/wangalbert/myown/Rab2itInventory/inventory_fe/app/index.html",
+		"/Users/wangalbert/myown/Rab2itInventory/inventory_fe/app/scripts/controllers/main.js",
+		"/Users/wangalbert/myown/Rab2itInventory/inventory_fe/.gitignore",
+		"/Users/wangalbert/myown/Rab2itInventory/inventory_fe/app/scripts/app.js",
+		"/Users/wangalbert/myown/Rab2itInventory/inventory_fe/.gitattributes",
+		"/Users/wangalbert/myown/Rab2itInventory/inventory_fe/dist/scripts/ded94bd9.vendor.js",
+		"/Users/wangalbert/projects/angularJS/angular-phonecat/app/js/services.js",
+		"/Users/wangalbert/projects/angularJS/angular-phonecat/app/js/controllers.js",
+		"/Users/wangalbert/myown/inventory_fe/app/scripts/app.js",
+		"/Users/wangalbert/myown/inventory_fe/app/styles/main.scss",
+		"/Users/wangalbert/myown/inventory/index.php",
+		"/Users/wangalbert/myown/inventory_fe/app/scripts/controllers/login.js",
+		"/Users/wangalbert/myown/inventory_fe/app/scripts/services/userservice.coffee",
+		"/Users/wangalbert/myown/inventory_fe/app/index.html",
+		"/Users/wangalbert/myown/inventory_fe/app/styles/test.scss",
+		"/Users/wangalbert/myown/inventory_fe/app/robots.txt",
+		"/Users/wangalbert/projects/phpMyAdmin/config.inc.php",
+		"/Users/wangalbert/Tests/untitled.coffee",
+		"/Users/wangalbert/Tests/untitled.js",
+		"/Users/wangalbert/Documents/Tests/untitled.coffee"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"process",
+			"\"",
+			"upload",
+			"\"",
+			"Content-Type",
+			"animation",
+			"myApp",
+			"font"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 315,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								315,
+								315
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "cmsBackend.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
